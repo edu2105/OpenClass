@@ -1,0 +1,282 @@
+[
+    {
+        "merged": "C:\\Users\\cvsmain\\Documents\\Sample Apps\\Android\\FordVD\\sdl_android\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_ic_sdl.png.flat",
+        "source": "C:\\Users\\cvsmain\\Documents\\Sample Apps\\Android\\FordVD\\sdl_android\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ic_sdl.png"
+    },
+    {
+        "merged": "C:\\Users\\APEREZM1\\AndroidStudioProjects\\FordVD\\sdl_android\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_ic_sdl.png.flat",
+        "source": "C:\\Users\\APEREZM1\\AndroidStudioProjects\\FordVD\\sdl_android\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ic_sdl.png"
+    },
+    {
+        "merged": "C:\\Users\\cvsmain\\Documents\\Sample Apps\\Android\\FordVD\\sdl_android\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4_ic_sdl.png.flat",
+        "source": "C:\\Users\\cvsmain\\Documents\\Sample Apps\\Android\\FordVD\\sdl_android\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\ic_sdl.png"
+    },
+    {
+        "merged": "C:\\Users\\cvsmain\\Documents\\Sample Apps\\Android\\FordVD\\C:\\Users\\cvsmain\\Documents\\Android DEV\\FordVD_VerGet\\FordVD\\C:\\Users\\lteixe13\\Documents\\Fleet\\FordVD\\sdl_android\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_sdl_tray_icon.png.flat",
+        "source": "C:\\Users\\cvsmain\\Documents\\Sample Apps\\Android\\FordVD\\C:\\Users\\cvsmain\\Documents\\Android DEV\\FordVD_VerGet\\FordVD\\C:\\Users\\lteixe13\\Documents\\Fleet\\FordVD\\sdl_android\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\sdl_tray_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\cvsmain\\Documents\\Sample Apps\\Android\\FordVD\\C:\\Users\\cvsmain\\Documents\\Android DEV\\FordVD_VerGet\\FordVD\\sdl_android\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxxhdpi-v4_sdl_tray_icon.png.flat",
+        "source": "C:\\Users\\cvsmain\\Documents\\Sample Apps\\Android\\FordVD\\C:\\Users\\cvsmain\\Documents\\Android DEV\\FordVD_VerGet\\FordVD\\sdl_android\\build\\intermediates\\bundles\\debug\\res\\drawable-xxxhdpi-v4\\sdl_tray_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\APEREZM1\\AndroidStudioProjects\\OpenClass\\sdl_android\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4_sdl_tray_icon.png.flat",
+        "source": "C:\\Users\\APEREZM1\\AndroidStudioProjects\\OpenClass\\sdl_android\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\sdl_tray_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\cvsmain\\Documents\\Sample Apps\\Android\\FordVD\\C:\\Users\\cvsmain\\Documents\\Android DEV\\FordVD_VerGet\\FordVD\\sdl_android\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_ic_sdl.png.flat",
+        "source": "C:\\Users\\cvsmain\\Documents\\Sample Apps\\Android\\FordVD\\C:\\Users\\cvsmain\\Documents\\Android DEV\\FordVD_VerGet\\FordVD\\sdl_android\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\ic_sdl.png"
+    },
+    {
+        "merged": "C:\\Users\\cvsmain\\Documents\\Sample Apps\\Android\\FordVD\\C:\\Users\\cvsmain\\Documents\\Android DEV\\FordVD_VerGet\\FordVD\\sdl_android\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_sdl_tray_icon.png.flat",
+        "source": "C:\\Users\\cvsmain\\Documents\\Sample Apps\\Android\\FordVD\\C:\\Users\\cvsmain\\Documents\\Android DEV\\FordVD_VerGet\\FordVD\\sdl_android\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\sdl_tray_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\APEREZM1\\AndroidStudioProjects\\FordVD\\sdl_android\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxxhdpi-v4_sdl_tray_icon.png.flat",
+        "source": "C:\\Users\\APEREZM1\\AndroidStudioProjects\\FordVD\\sdl_android\\build\\intermediates\\bundles\\debug\\res\\drawable-xxxhdpi-v4\\sdl_tray_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\cvsmain\\Documents\\Sample Apps\\Android\\FordVD\\C:\\Users\\lteixe13\\Documents\\FordVD_MacVersion\\FordVD\\sdl_android\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_ic_sdl.png.flat",
+        "source": "C:\\Users\\cvsmain\\Documents\\Sample Apps\\Android\\FordVD\\C:\\Users\\lteixe13\\Documents\\FordVD_MacVersion\\FordVD\\sdl_android\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\ic_sdl.png"
+    },
+    {
+        "merged": "C:\\Users\\hsanhues\\AndroidStudioProjects\\OpenClass\\sdl_android\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_sdl_tray_icon.png.flat",
+        "source": "C:\\Users\\hsanhues\\AndroidStudioProjects\\OpenClass\\sdl_android\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\sdl_tray_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\hsanhues\\AndroidStudioProjects\\OpenClass\\sdl_android\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_sdl_tray_icon.png.flat",
+        "source": "C:\\Users\\hsanhues\\AndroidStudioProjects\\OpenClass\\sdl_android\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\sdl_tray_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\APEREZM1\\AndroidStudioProjects\\FordVD\\sdl_android\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_ic_sdl.png.flat",
+        "source": "C:\\Users\\APEREZM1\\AndroidStudioProjects\\FordVD\\sdl_android\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\ic_sdl.png"
+    },
+    {
+        "merged": "C:\\Users\\APEREZM1\\AndroidStudioProjects\\OpenClass\\sdl_android\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxxhdpi-v4_sdl_tray_icon.png.flat",
+        "source": "C:\\Users\\APEREZM1\\AndroidStudioProjects\\OpenClass\\sdl_android\\build\\intermediates\\bundles\\debug\\res\\drawable-xxxhdpi-v4\\sdl_tray_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\cvsmain\\Documents\\Sample Apps\\Android\\FordVD\\sdl_android\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_sdl_tray_icon.png.flat",
+        "source": "C:\\Users\\cvsmain\\Documents\\Sample Apps\\Android\\FordVD\\sdl_android\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\sdl_tray_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\cvsmain\\Documents\\Sample Apps\\Android\\FordVD\\sdl_android\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxxhdpi-v4_ic_sdl.png.flat",
+        "source": "C:\\Users\\cvsmain\\Documents\\Sample Apps\\Android\\FordVD\\sdl_android\\build\\intermediates\\bundles\\debug\\res\\drawable-xxxhdpi-v4\\ic_sdl.png"
+    },
+    {
+        "merged": "C:\\Users\\APEREZM1\\AndroidStudioProjects\\FordVD\\sdl_android\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_sdl_tray_icon.png.flat",
+        "source": "C:\\Users\\APEREZM1\\AndroidStudioProjects\\FordVD\\sdl_android\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\sdl_tray_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\cvsmain\\Documents\\Sample Apps\\Android\\FordVD\\C:\\Users\\cvsmain\\Documents\\Android DEV\\FordVD_VerGet\\FordVD\\C:\\Users\\lteixe13\\Documents\\Fleet\\FordVD\\sdl_android\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_ic_sdl.png.flat",
+        "source": "C:\\Users\\cvsmain\\Documents\\Sample Apps\\Android\\FordVD\\C:\\Users\\cvsmain\\Documents\\Android DEV\\FordVD_VerGet\\FordVD\\C:\\Users\\lteixe13\\Documents\\Fleet\\FordVD\\sdl_android\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\ic_sdl.png"
+    },
+    {
+        "merged": "C:\\Users\\APEREZM1\\AndroidStudioProjects\\OpenClass\\sdl_android\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_sdl_tray_icon.png.flat",
+        "source": "C:\\Users\\APEREZM1\\AndroidStudioProjects\\OpenClass\\sdl_android\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\sdl_tray_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\APEREZM1\\AndroidStudioProjects\\OpenClass\\sdl_android\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_ic_sdl.png.flat",
+        "source": "C:\\Users\\APEREZM1\\AndroidStudioProjects\\OpenClass\\sdl_android\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ic_sdl.png"
+    },
+    {
+        "merged": "C:\\Users\\APEREZM1\\AndroidStudioProjects\\OpenClass\\sdl_android\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_ic_sdl.png.flat",
+        "source": "C:\\Users\\APEREZM1\\AndroidStudioProjects\\OpenClass\\sdl_android\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\ic_sdl.png"
+    },
+    {
+        "merged": "C:\\Users\\cvsmain\\Documents\\Sample Apps\\Android\\FordVD\\C:\\Users\\cvsmain\\Documents\\Android DEV\\FordVD_VerGet\\FordVD\\sdl_android\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_ic_sdl.png.flat",
+        "source": "C:\\Users\\cvsmain\\Documents\\Sample Apps\\Android\\FordVD\\C:\\Users\\cvsmain\\Documents\\Android DEV\\FordVD_VerGet\\FordVD\\sdl_android\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ic_sdl.png"
+    },
+    {
+        "merged": "C:\\Users\\cvsmain\\Documents\\Sample Apps\\Android\\FordVD\\C:\\Users\\lteixe13\\Documents\\FordVD_MacVersion\\FordVD\\sdl_android\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_sdl_tray_icon.png.flat",
+        "source": "C:\\Users\\cvsmain\\Documents\\Sample Apps\\Android\\FordVD\\C:\\Users\\lteixe13\\Documents\\FordVD_MacVersion\\FordVD\\sdl_android\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\sdl_tray_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\hsanhues\\AndroidStudioProjects\\OpenClass\\sdl_android\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxxhdpi-v4_ic_sdl.png.flat",
+        "source": "C:\\Users\\hsanhues\\AndroidStudioProjects\\OpenClass\\sdl_android\\build\\intermediates\\bundles\\debug\\res\\drawable-xxxhdpi-v4\\ic_sdl.png"
+    },
+    {
+        "merged": "C:\\Users\\hsanhues\\AndroidStudioProjects\\OpenClass\\sdl_android\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxxhdpi-v4_sdl_tray_icon.png.flat",
+        "source": "C:\\Users\\hsanhues\\AndroidStudioProjects\\OpenClass\\sdl_android\\build\\intermediates\\bundles\\debug\\res\\drawable-xxxhdpi-v4\\sdl_tray_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\cvsmain\\Documents\\Sample Apps\\Android\\FordVD\\C:\\Users\\lteixe13\\Documents\\FordVD_MacVersion\\FordVD\\sdl_android\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxxhdpi-v4_sdl_tray_icon.png.flat",
+        "source": "C:\\Users\\cvsmain\\Documents\\Sample Apps\\Android\\FordVD\\C:\\Users\\lteixe13\\Documents\\FordVD_MacVersion\\FordVD\\sdl_android\\build\\intermediates\\bundles\\debug\\res\\drawable-xxxhdpi-v4\\sdl_tray_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\APEREZM1\\AndroidStudioProjects\\FordVD\\sdl_android\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxxhdpi-v4_ic_sdl.png.flat",
+        "source": "C:\\Users\\APEREZM1\\AndroidStudioProjects\\FordVD\\sdl_android\\build\\intermediates\\bundles\\debug\\res\\drawable-xxxhdpi-v4\\ic_sdl.png"
+    },
+    {
+        "merged": "C:\\Users\\APEREZM1\\AndroidStudioProjects\\FordVD\\sdl_android\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_ic_sdl.png.flat",
+        "source": "C:\\Users\\APEREZM1\\AndroidStudioProjects\\FordVD\\sdl_android\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\ic_sdl.png"
+    },
+    {
+        "merged": "C:\\Users\\hsanhues\\AndroidStudioProjects\\OpenClass\\sdl_android\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4_sdl_tray_icon.png.flat",
+        "source": "C:\\Users\\hsanhues\\AndroidStudioProjects\\OpenClass\\sdl_android\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\sdl_tray_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\cvsmain\\Documents\\Sample Apps\\Android\\FordVD\\C:\\Users\\lteixe13\\Documents\\FordVD_MacVersion\\FordVD\\sdl_android\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_sdl_tray_icon.png.flat",
+        "source": "C:\\Users\\cvsmain\\Documents\\Sample Apps\\Android\\FordVD\\C:\\Users\\lteixe13\\Documents\\FordVD_MacVersion\\FordVD\\sdl_android\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\sdl_tray_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\APEREZM1\\AndroidStudioProjects\\OpenClass\\sdl_android\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_sdl_tray_icon.png.flat",
+        "source": "C:\\Users\\APEREZM1\\AndroidStudioProjects\\OpenClass\\sdl_android\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\sdl_tray_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\APEREZM1\\AndroidStudioProjects\\OpenClass\\sdl_android\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_ic_sdl.png.flat",
+        "source": "C:\\Users\\APEREZM1\\AndroidStudioProjects\\OpenClass\\sdl_android\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\ic_sdl.png"
+    },
+    {
+        "merged": "C:\\Users\\hsanhues\\AndroidStudioProjects\\OpenClass\\sdl_android\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4_ic_sdl.png.flat",
+        "source": "C:\\Users\\hsanhues\\AndroidStudioProjects\\OpenClass\\sdl_android\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\ic_sdl.png"
+    },
+    {
+        "merged": "C:\\Users\\cvsmain\\Documents\\Sample Apps\\Android\\FordVD\\C:\\Users\\cvsmain\\Documents\\Android DEV\\FordVD_VerGet\\FordVD\\C:\\Users\\lteixe13\\Documents\\Fleet\\FordVD\\sdl_android\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_ic_sdl.png.flat",
+        "source": "C:\\Users\\cvsmain\\Documents\\Sample Apps\\Android\\FordVD\\C:\\Users\\cvsmain\\Documents\\Android DEV\\FordVD_VerGet\\FordVD\\C:\\Users\\lteixe13\\Documents\\Fleet\\FordVD\\sdl_android\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ic_sdl.png"
+    },
+    {
+        "merged": "C:\\Users\\cvsmain\\Documents\\Sample Apps\\Android\\FordVD\\C:\\Users\\cvsmain\\Documents\\Android DEV\\FordVD_VerGet\\FordVD\\sdl_android\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_sdl_tray_icon.png.flat",
+        "source": "C:\\Users\\cvsmain\\Documents\\Sample Apps\\Android\\FordVD\\C:\\Users\\cvsmain\\Documents\\Android DEV\\FordVD_VerGet\\FordVD\\sdl_android\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\sdl_tray_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\cvsmain\\Documents\\Sample Apps\\Android\\FordVD\\C:\\Users\\lteixe13\\Documents\\FordVD_MacVersion\\FordVD\\sdl_android\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4_ic_sdl.png.flat",
+        "source": "C:\\Users\\cvsmain\\Documents\\Sample Apps\\Android\\FordVD\\C:\\Users\\lteixe13\\Documents\\FordVD_MacVersion\\FordVD\\sdl_android\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\ic_sdl.png"
+    },
+    {
+        "merged": "C:\\Users\\APEREZM1\\AndroidStudioProjects\\FordVD\\sdl_android\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4_sdl_tray_icon.png.flat",
+        "source": "C:\\Users\\APEREZM1\\AndroidStudioProjects\\FordVD\\sdl_android\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\sdl_tray_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\cvsmain\\Documents\\Sample Apps\\Android\\FordVD\\C:\\Users\\cvsmain\\Documents\\Android DEV\\FordVD_VerGet\\FordVD\\sdl_android\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4_ic_sdl.png.flat",
+        "source": "C:\\Users\\cvsmain\\Documents\\Sample Apps\\Android\\FordVD\\C:\\Users\\cvsmain\\Documents\\Android DEV\\FordVD_VerGet\\FordVD\\sdl_android\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\ic_sdl.png"
+    },
+    {
+        "merged": "C:\\Users\\cvsmain\\Documents\\Sample Apps\\Android\\FordVD\\sdl_android\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_ic_sdl.png.flat",
+        "source": "C:\\Users\\cvsmain\\Documents\\Sample Apps\\Android\\FordVD\\sdl_android\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\ic_sdl.png"
+    },
+    {
+        "merged": "C:\\Users\\hsanhues\\AndroidStudioProjects\\OpenClass\\sdl_android\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_ic_sdl.png.flat",
+        "source": "C:\\Users\\hsanhues\\AndroidStudioProjects\\OpenClass\\sdl_android\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\ic_sdl.png"
+    },
+    {
+        "merged": "C:\\Users\\cvsmain\\Documents\\Sample Apps\\Android\\FordVD\\C:\\Users\\cvsmain\\Documents\\Android DEV\\FordVD_VerGet\\FordVD\\C:\\Users\\lteixe13\\Documents\\Fleet\\FordVD\\sdl_android\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxxhdpi-v4_ic_sdl.png.flat",
+        "source": "C:\\Users\\cvsmain\\Documents\\Sample Apps\\Android\\FordVD\\C:\\Users\\cvsmain\\Documents\\Android DEV\\FordVD_VerGet\\FordVD\\C:\\Users\\lteixe13\\Documents\\Fleet\\FordVD\\sdl_android\\build\\intermediates\\bundles\\debug\\res\\drawable-xxxhdpi-v4\\ic_sdl.png"
+    },
+    {
+        "merged": "C:\\Users\\cvsmain\\Documents\\Sample Apps\\Android\\FordVD\\C:\\Users\\lteixe13\\Documents\\FordVD_MacVersion\\FordVD\\sdl_android\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_sdl_tray_icon.png.flat",
+        "source": "C:\\Users\\cvsmain\\Documents\\Sample Apps\\Android\\FordVD\\C:\\Users\\lteixe13\\Documents\\FordVD_MacVersion\\FordVD\\sdl_android\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\sdl_tray_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\cvsmain\\Documents\\Sample Apps\\Android\\FordVD\\sdl_android\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4_sdl_tray_icon.png.flat",
+        "source": "C:\\Users\\cvsmain\\Documents\\Sample Apps\\Android\\FordVD\\sdl_android\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\sdl_tray_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\cvsmain\\Documents\\Sample Apps\\Android\\FordVD\\C:\\Users\\lteixe13\\Documents\\FordVD_MacVersion\\FordVD\\sdl_android\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_ic_sdl.png.flat",
+        "source": "C:\\Users\\cvsmain\\Documents\\Sample Apps\\Android\\FordVD\\C:\\Users\\lteixe13\\Documents\\FordVD_MacVersion\\FordVD\\sdl_android\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ic_sdl.png"
+    },
+    {
+        "merged": "C:\\Users\\cvsmain\\Documents\\Sample Apps\\Android\\FordVD\\sdl_android\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxxhdpi-v4_sdl_tray_icon.png.flat",
+        "source": "C:\\Users\\cvsmain\\Documents\\Sample Apps\\Android\\FordVD\\sdl_android\\build\\intermediates\\bundles\\debug\\res\\drawable-xxxhdpi-v4\\sdl_tray_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\APEREZM1\\AndroidStudioProjects\\OpenClass\\sdl_android\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_sdl_tray_icon.png.flat",
+        "source": "C:\\Users\\APEREZM1\\AndroidStudioProjects\\OpenClass\\sdl_android\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\sdl_tray_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\cvsmain\\Documents\\Sample Apps\\Android\\FordVD\\C:\\Users\\lteixe13\\Documents\\FordVD_MacVersion\\FordVD\\sdl_android\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_ic_sdl.png.flat",
+        "source": "C:\\Users\\cvsmain\\Documents\\Sample Apps\\Android\\FordVD\\C:\\Users\\lteixe13\\Documents\\FordVD_MacVersion\\FordVD\\sdl_android\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\ic_sdl.png"
+    },
+    {
+        "merged": "C:\\Users\\cvsmain\\Documents\\Sample Apps\\Android\\FordVD\\C:\\Users\\cvsmain\\Documents\\Android DEV\\FordVD_VerGet\\FordVD\\sdl_android\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxxhdpi-v4_ic_sdl.png.flat",
+        "source": "C:\\Users\\cvsmain\\Documents\\Sample Apps\\Android\\FordVD\\C:\\Users\\cvsmain\\Documents\\Android DEV\\FordVD_VerGet\\FordVD\\sdl_android\\build\\intermediates\\bundles\\debug\\res\\drawable-xxxhdpi-v4\\ic_sdl.png"
+    },
+    {
+        "merged": "C:\\Users\\cvsmain\\Documents\\Sample Apps\\Android\\FordVD\\C:\\Users\\lteixe13\\Documents\\FordVD_MacVersion\\FordVD\\sdl_android\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4_sdl_tray_icon.png.flat",
+        "source": "C:\\Users\\cvsmain\\Documents\\Sample Apps\\Android\\FordVD\\C:\\Users\\lteixe13\\Documents\\FordVD_MacVersion\\FordVD\\sdl_android\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\sdl_tray_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\cvsmain\\Documents\\Sample Apps\\Android\\FordVD\\C:\\Users\\cvsmain\\Documents\\Android DEV\\FordVD_VerGet\\FordVD\\C:\\Users\\lteixe13\\Documents\\Fleet\\FordVD\\sdl_android\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4_ic_sdl.png.flat",
+        "source": "C:\\Users\\cvsmain\\Documents\\Sample Apps\\Android\\FordVD\\C:\\Users\\cvsmain\\Documents\\Android DEV\\FordVD_VerGet\\FordVD\\C:\\Users\\lteixe13\\Documents\\Fleet\\FordVD\\sdl_android\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\ic_sdl.png"
+    },
+    {
+        "merged": "C:\\Users\\cvsmain\\Documents\\Sample Apps\\Android\\FordVD\\C:\\Users\\cvsmain\\Documents\\Android DEV\\FordVD_VerGet\\FordVD\\C:\\Users\\lteixe13\\Documents\\Fleet\\FordVD\\sdl_android\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_sdl_tray_icon.png.flat",
+        "source": "C:\\Users\\cvsmain\\Documents\\Sample Apps\\Android\\FordVD\\C:\\Users\\cvsmain\\Documents\\Android DEV\\FordVD_VerGet\\FordVD\\C:\\Users\\lteixe13\\Documents\\Fleet\\FordVD\\sdl_android\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\sdl_tray_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\hsanhues\\AndroidStudioProjects\\OpenClass\\sdl_android\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_ic_sdl.png.flat",
+        "source": "C:\\Users\\hsanhues\\AndroidStudioProjects\\OpenClass\\sdl_android\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\ic_sdl.png"
+    },
+    {
+        "merged": "C:\\Users\\hsanhues\\AndroidStudioProjects\\OpenClass\\sdl_android\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_sdl_tray_icon.png.flat",
+        "source": "C:\\Users\\hsanhues\\AndroidStudioProjects\\OpenClass\\sdl_android\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\sdl_tray_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\cvsmain\\Documents\\Sample Apps\\Android\\FordVD\\sdl_android\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_sdl_tray_icon.png.flat",
+        "source": "C:\\Users\\cvsmain\\Documents\\Sample Apps\\Android\\FordVD\\sdl_android\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\sdl_tray_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\cvsmain\\Documents\\Sample Apps\\Android\\FordVD\\sdl_android\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_ic_sdl.png.flat",
+        "source": "C:\\Users\\cvsmain\\Documents\\Sample Apps\\Android\\FordVD\\sdl_android\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\ic_sdl.png"
+    },
+    {
+        "merged": "C:\\Users\\APEREZM1\\AndroidStudioProjects\\FordVD\\sdl_android\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_sdl_tray_icon.png.flat",
+        "source": "C:\\Users\\APEREZM1\\AndroidStudioProjects\\FordVD\\sdl_android\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\sdl_tray_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\cvsmain\\Documents\\Sample Apps\\Android\\FordVD\\C:\\Users\\cvsmain\\Documents\\Android DEV\\FordVD_VerGet\\FordVD\\C:\\Users\\lteixe13\\Documents\\Fleet\\FordVD\\sdl_android\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_sdl_tray_icon.png.flat",
+        "source": "C:\\Users\\cvsmain\\Documents\\Sample Apps\\Android\\FordVD\\C:\\Users\\cvsmain\\Documents\\Android DEV\\FordVD_VerGet\\FordVD\\C:\\Users\\lteixe13\\Documents\\Fleet\\FordVD\\sdl_android\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\sdl_tray_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\APEREZM1\\AndroidStudioProjects\\OpenClass\\sdl_android\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxxhdpi-v4_ic_sdl.png.flat",
+        "source": "C:\\Users\\APEREZM1\\AndroidStudioProjects\\OpenClass\\sdl_android\\build\\intermediates\\bundles\\debug\\res\\drawable-xxxhdpi-v4\\ic_sdl.png"
+    },
+    {
+        "merged": "C:\\Users\\cvsmain\\Documents\\Sample Apps\\Android\\FordVD\\C:\\Users\\lteixe13\\Documents\\FordVD_MacVersion\\FordVD\\sdl_android\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxxhdpi-v4_ic_sdl.png.flat",
+        "source": "C:\\Users\\cvsmain\\Documents\\Sample Apps\\Android\\FordVD\\C:\\Users\\lteixe13\\Documents\\FordVD_MacVersion\\FordVD\\sdl_android\\build\\intermediates\\bundles\\debug\\res\\drawable-xxxhdpi-v4\\ic_sdl.png"
+    },
+    {
+        "merged": "C:\\Users\\cvsmain\\Documents\\Sample Apps\\Android\\FordVD\\C:\\Users\\cvsmain\\Documents\\Android DEV\\FordVD_VerGet\\FordVD\\C:\\Users\\lteixe13\\Documents\\Fleet\\FordVD\\sdl_android\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_ic_sdl.png.flat",
+        "source": "C:\\Users\\cvsmain\\Documents\\Sample Apps\\Android\\FordVD\\C:\\Users\\cvsmain\\Documents\\Android DEV\\FordVD_VerGet\\FordVD\\C:\\Users\\lteixe13\\Documents\\Fleet\\FordVD\\sdl_android\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\ic_sdl.png"
+    },
+    {
+        "merged": "C:\\Users\\APEREZM1\\AndroidStudioProjects\\FordVD\\sdl_android\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_sdl_tray_icon.png.flat",
+        "source": "C:\\Users\\APEREZM1\\AndroidStudioProjects\\FordVD\\sdl_android\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\sdl_tray_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\APEREZM1\\AndroidStudioProjects\\FordVD\\sdl_android\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4_ic_sdl.png.flat",
+        "source": "C:\\Users\\APEREZM1\\AndroidStudioProjects\\FordVD\\sdl_android\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\ic_sdl.png"
+    },
+    {
+        "merged": "C:\\Users\\cvsmain\\Documents\\Sample Apps\\Android\\FordVD\\C:\\Users\\cvsmain\\Documents\\Android DEV\\FordVD_VerGet\\FordVD\\sdl_android\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4_sdl_tray_icon.png.flat",
+        "source": "C:\\Users\\cvsmain\\Documents\\Sample Apps\\Android\\FordVD\\C:\\Users\\cvsmain\\Documents\\Android DEV\\FordVD_VerGet\\FordVD\\sdl_android\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\sdl_tray_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\cvsmain\\Documents\\Sample Apps\\Android\\FordVD\\C:\\Users\\cvsmain\\Documents\\Android DEV\\FordVD_VerGet\\FordVD\\C:\\Users\\lteixe13\\Documents\\Fleet\\FordVD\\sdl_android\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxxhdpi-v4_sdl_tray_icon.png.flat",
+        "source": "C:\\Users\\cvsmain\\Documents\\Sample Apps\\Android\\FordVD\\C:\\Users\\cvsmain\\Documents\\Android DEV\\FordVD_VerGet\\FordVD\\C:\\Users\\lteixe13\\Documents\\Fleet\\FordVD\\sdl_android\\build\\intermediates\\bundles\\debug\\res\\drawable-xxxhdpi-v4\\sdl_tray_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\cvsmain\\Documents\\Sample Apps\\Android\\FordVD\\sdl_android\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_sdl_tray_icon.png.flat",
+        "source": "C:\\Users\\cvsmain\\Documents\\Sample Apps\\Android\\FordVD\\sdl_android\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\sdl_tray_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\APEREZM1\\AndroidStudioProjects\\OpenClass\\sdl_android\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4_ic_sdl.png.flat",
+        "source": "C:\\Users\\APEREZM1\\AndroidStudioProjects\\OpenClass\\sdl_android\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\ic_sdl.png"
+    },
+    {
+        "merged": "C:\\Users\\cvsmain\\Documents\\Sample Apps\\Android\\FordVD\\C:\\Users\\cvsmain\\Documents\\Android DEV\\FordVD_VerGet\\FordVD\\C:\\Users\\lteixe13\\Documents\\Fleet\\FordVD\\sdl_android\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4_sdl_tray_icon.png.flat",
+        "source": "C:\\Users\\cvsmain\\Documents\\Sample Apps\\Android\\FordVD\\C:\\Users\\cvsmain\\Documents\\Android DEV\\FordVD_VerGet\\FordVD\\C:\\Users\\lteixe13\\Documents\\Fleet\\FordVD\\sdl_android\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\sdl_tray_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\cvsmain\\Documents\\Sample Apps\\Android\\FordVD\\C:\\Users\\cvsmain\\Documents\\Android DEV\\FordVD_VerGet\\FordVD\\sdl_android\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_ic_sdl.png.flat",
+        "source": "C:\\Users\\cvsmain\\Documents\\Sample Apps\\Android\\FordVD\\C:\\Users\\cvsmain\\Documents\\Android DEV\\FordVD_VerGet\\FordVD\\sdl_android\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\ic_sdl.png"
+    },
+    {
+        "merged": "C:\\Users\\cvsmain\\Documents\\Sample Apps\\Android\\FordVD\\C:\\Users\\cvsmain\\Documents\\Android DEV\\FordVD_VerGet\\FordVD\\sdl_android\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_sdl_tray_icon.png.flat",
+        "source": "C:\\Users\\cvsmain\\Documents\\Sample Apps\\Android\\FordVD\\C:\\Users\\cvsmain\\Documents\\Android DEV\\FordVD_VerGet\\FordVD\\sdl_android\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\sdl_tray_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\hsanhues\\AndroidStudioProjects\\OpenClass\\sdl_android\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_ic_sdl.png.flat",
+        "source": "C:\\Users\\hsanhues\\AndroidStudioProjects\\OpenClass\\sdl_android\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ic_sdl.png"
+    }
+]

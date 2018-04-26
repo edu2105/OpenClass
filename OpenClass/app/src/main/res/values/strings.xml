@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="app_name">OpenClass</string>
+
+    <!-- Welcome Text -->
+    <string name="welcome_text">Welcome to CPAr2</string>
+
+    <!-- Campus Party Text -->
+    <string name="campus_party_text">Ford AppLink Open Class</string>
+
+</resources>

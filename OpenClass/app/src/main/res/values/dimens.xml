@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Vertical text view margin -->
+    <dimen name="vertical_text_view_margin">8dp</dimen>
+
+</resources>
